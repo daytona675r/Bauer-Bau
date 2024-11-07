@@ -1,0 +1,10 @@
+{
+  "subtitle": "News & Beiträge",
+  "title": "Aktuelle News",
+  "description": "Unsere Mitarbeiter sind bestrebt, Lösungen für jede Herausforderung zu finden. Dieser Geist sorgt für einige großartige Geschichten.",
+  "button": {
+    "label": "Alle News",
+    "link": "/blog"
+  },
+  "numOfItems": 2
+}

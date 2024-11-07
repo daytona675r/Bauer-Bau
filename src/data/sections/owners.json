@@ -1,0 +1,44 @@
+{
+    "subtitle": "Unsere Mitarbeiter",
+    "title": "Immer ein offenes Ohr für Sie",
+    "items": [
+        {
+            "image": "/img/seb.jpg",
+            "name": "Sebastian Bauer",
+            "role": "Geschäftsinhaber",
+            "tel": "(+49) 172 1871489",
+            "social": [
+                {
+                    "link": "https://facebook.com/",
+                    "icon": "fa-brands fa-facebook-f",
+                    "title": "Facebook"
+                },
+                {
+                    "link": "https://twitter.com/",
+                    "icon": "fa-brands fa-twitter",
+                    "title": "Twitter"
+                }
+            ],
+            "link": "/team/team-1"
+        },
+        {
+            "image": "/img/sandra.jpg",
+            "name": "Sandra",
+            "role": "Sekretärin",
+            "tel": "(+180) 50 318 47 07",
+            "social": [
+                {
+                    "link": "https://facebook.com/",
+                    "icon": "fa-brands fa-facebook-f",
+                    "title": "Facebook"
+                },
+                {
+                    "link": "https://twitter.com/",
+                    "icon": "fa-brands fa-twitter",
+                    "title": "Twitter"
+                }
+            ],
+            "link": "/team/team-2"
+        }
+    ]
+}

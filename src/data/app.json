@@ -1,0 +1,83 @@
+{
+    "settings": {
+        "siteName": "Builty",
+        "preloader": {
+            "image": "/img/Builty-Logo-Black-Home.svg",
+            "alt": "logo"
+        },
+        "formspreeURL": "https://formspree.io/f/your_api_key",
+        "mailchimp": {
+            "url": "",
+            "key": ""
+        }
+    },
+    "header": {
+        "logo": {
+            "image": "/img/Logo.png",
+            "alt": "logo"
+        },
+      "menu": [
+        {
+          "label": "Home",
+          "link": "/",
+          "children": 0
+        },
+        {
+          "label": "Projekte",
+          "link": "/projects",
+          "children": 0
+        },
+        {
+          "label": "Services",
+          "link": "/services",
+          "children": 0
+        },
+        {
+          "label": "Team",
+          "link": "/team",
+          "children": 0
+        },
+        {
+          "label": "Über uns",
+          "link": "/about",
+          "children": 0
+        },
+        {
+          "label": "News",
+          "link": "/blog",
+          "children": 0
+        },
+        {
+          "label": "Contact",
+          "link": "/contact",
+          "children": 0
+        }
+      ]
+    },
+    "footer": {
+        "logo": {
+            "image": "/img/Logo.png",
+            "alt": "logo"
+        },
+        "info": {
+            "address": "Waldkirchener Straße 10, 09405 Gornau",
+            "tel": "(+49) 172 1871489",
+            "email": "kontakt@Bauer-Bau.info"
+        },
+        "copy": "Bauer Bau <i class='fa-solid fa-heart'></i> © 2024  All rights reserved"
+    },
+    "social": [
+        {
+            "link": "https://facebook.com",
+            "title": "Facebook"
+        },
+        {
+            "link": "https://twitter.com",
+            "title": "Twitter"
+        },
+        {
+            "link": "https://linkedin.com",
+            "title": "Linkedin"
+        }
+    ]
+}

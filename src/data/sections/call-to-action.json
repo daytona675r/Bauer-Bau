@@ -1,0 +1,12 @@
+{
+    "title": "Bereit für Ihr nächstes Projekt?",
+    "description": "Sie suchen nach einem verlässlichen Partner für Ihr Bauvorhaben, wir freuen uns von Ihnen zu hören!",
+    "image": {
+        "url": "/img/building-2.png",
+        "alt": "image"
+    },
+    "button": {
+        "link": "/contact",
+        "label": "Starte dein Projekt"
+    }
+}
