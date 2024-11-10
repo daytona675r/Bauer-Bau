@@ -2545,15 +2545,13 @@ span.counter {
     border-right: 28px solid transparent;
     border-top: 60px solid $accent-1;
 }
-.desktop-nav .nav-bar .extras .theme-btn svg
-#mobile-nav .theme-btn svg {
+.desktop-nav .nav-bar .extras .theme-btn svg {
     width: 25px;
     height: 20px;
     margin: 0;
     fill: $white;
 }
-.desktop-nav .nav-bar .extras .theme-btn:hover svg
-#mobile-nav .theme-btn svg {
+.desktop-nav .nav-bar .extras .theme-btn:hover svg{
     fill: $black;
 }
 .mobile-nav {
