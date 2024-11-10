@@ -201,26 +201,7 @@ const DefaultHeader = ({ contactButton, cartButton }) => {
                     <div className="mobile-nav mobile-menu" id="mobile-nav">
                         <a href="tel:+491721871489" className="theme-btn">
                             +49172 1871489
-                            <i>
-                                <svg xmlns="http://www.w3.org/2000/svg" xmlnsXlink="http://www.w3.org/1999/xlink" width="20" height="31" viewBox="0 0 20 31">
-                                    <defs>
-                                        <clipPath id="saddasdasdasdasda">
-                                            <rect width="20" height="31" />
-                                        </clipPath>
-                                    </defs>
-                                    <g id="Mobisdfle" clipPath="url(#saddasdasdasdasda)">
-                                        <path id="Path_125" data-name="Path 1" d="M10,6a4,4,0,0,0-4,4V50a4,4,0,0,0,4,4H28a4,4,0,0,0,4-4V10a4,4,0,0,0-4-4H10m0-6H28A10,10,0,0,1,38,10V50A10,10,0,0,1,28,60H10A10,10,0,0,1,0,50V10A10,10,0,0,1,10,0Z" transform="translate(1 1)" />
-                                        <path id="Path_4342" data-name="Path 2" d="M2.5,0h7a2.5,2.5,0,0,1,0,5h-7a2.5,2.5,0,0,1,0-5Z" transform="translate(14 48)" />
-                                    </g>
-                                </svg>
-                            </i>
                         </a>
-
-                        <div className="social-medias">
-                            {appData.social.map((item, key) => (
-                                <a href={item.link} target="_blank" key={`hsocial-item-${key}`}>{item.title}</a>
-                            ))}
-                        </div>
 
                         <ul>
                             {navItems.map((item, key) => (
