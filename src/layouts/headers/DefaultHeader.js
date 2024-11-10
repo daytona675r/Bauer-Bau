@@ -199,10 +199,14 @@ const DefaultHeader = ({ contactButton, cartButton }) => {
           </div>
 
           <div className="mobile-nav mobile-menu" id="mobile-nav">
-            <div className="res-log">
-              <Link href="/">
-                <img src={appData.header.logo.image} alt={appData.header.logo.alt} />
-              </Link>
+            <h3>Get in touch</h3>
+            <p className="num">(+380) 50 318 47 07</p>
+            <p className="adrs">65 Allerton Street 901 N Pitt Str, Suite 170, VA 22314, USA</p>
+
+            <div className="social-medias">
+                {appData.social.map((item, key) => (
+                    <a href={item.link} target="_blank" key={`hsocial-item-${key}`}>{item.title}</a>
+                ))}
             </div>
 
             <ul>
