@@ -202,10 +202,10 @@ const DefaultHeader = ({ contactButton, cartButton }) => {
                         <a href="tel:+491721871489" className="theme-btn">
                             +49172 1871489
                             <i>
-                                <svg xmlns="http://www.w3.org/2000/svg" xmlnsXlink="http://www.w3.org/1999/xlink" width="40" height="62" viewBox="0 0 40 62">
+                                <svg xmlns="http://www.w3.org/2000/svg" xmlnsXlink="http://www.w3.org/1999/xlink" width="20" height="31" viewBox="0 0 20 31">
                                     <defs>
                                         <clipPath id="saddasdasdasdasda">
-                                            <rect width="40" height="62" />
+                                            <rect width="20" height="31" />
                                         </clipPath>
                                     </defs>
                                     <g id="Mobisdfle" clipPath="url(#saddasdasdasdasda)">
