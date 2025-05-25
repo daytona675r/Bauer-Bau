@@ -30,8 +30,9 @@ projects:
   - project-03
 ---
 
-### What is your professional passion?
+### Das Familiengeschäft
 
-The most exciting would be that no day is ever the same and each day brings new challenges. My professional passion would be team morale and relationship building. I think the true measure of success in an organization is to gage employee satisfaction, engagement nd the relationships that they build. I truly never envisioned that Construction would have been the organization that empowers. The most exciting would be that no day is ever the same and each day brings new challenges. My professional passion would be team morale and relationship building.
+Ohne Fleiß kein Preis. Auf folgenden Seiten finden Sie weitere Fakten und INformationen über das noch junge Famamilienunternehmen. 
 
-Moorings Park Grande Lake. It’s my favorite because of the vast layers of the project from building structure to the customization in the building. (Only one I’ve been on so far but LOVE it)
+Certified engineer Sebastian Bauer
+Geschäftsführer
