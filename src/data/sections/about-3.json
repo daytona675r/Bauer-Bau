@@ -4,19 +4,25 @@
   "items": [
     {
       "image": "/img/Rohbau.jpg",
-      "title": "Rohbau",
+      "title": "Hoch- Tiefbau i.R.",
       "text": "Mauer-, Putz- oder Betonierarbeiten oder einfach Trockenbau, bei uns ist immer alles im Lot.",
       "link": "/services/service-1"
     },
     {
       "image": "/img/Sanierung.jpg",
-      "title": "Sanierung",
-      "text": "Abbrucharbeiten und Entsorgung, Sanierung und Modernisierung nach aktuellen Standards.",
+      "title": "Innenausbau",
+      "text": "Elektrik, Fließenleger- Putzer und Bodenlegerarbeiten nach aktuellen Standards.",
       "link": "/services/service-2"
     },
     {
       "image": "/img/Gartenbau.jpg",
-      "title": "Gartenbau",
+      "title": "Heizung/Sanitär/Klimatechnik",
+      "text": "Pflastern, Böschungen, Gartenmauern, Ihr Garten nach Ihren Wünschen. Nur giessen müssen Sie selber.",
+      "link": "/services/service-3"
+    }
+    {
+      "image": "/img/Gartenbau.jpg",
+      "title": "Beton-Bohrer u. Schneider",
       "text": "Pflastern, Böschungen, Gartenmauern, Ihr Garten nach Ihren Wünschen. Nur giessen müssen Sie selber.",
       "link": "/services/service-3"
     }
