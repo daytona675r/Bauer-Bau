@@ -56,7 +56,7 @@ const FeaturesSection = () => {
         </div>
         </div>
 
-        <ModalVideo channel='youtube' isOpen={isOpen} videoId={Data.yt_video_id} onClose={() => setOpen(false)} />
+        <ModalVideo channel='youtube' isOpen={isOpen} autoplay='1' videoId={Data.yt_video_id} onClose={() => setOpen(false)} />
     </section>
   );
 };

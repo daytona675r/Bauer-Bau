@@ -28,27 +28,12 @@
           "children": 0
         },
         {
-          "label": "Services",
-          "link": "/services",
-          "children": 0
-        },
-        {
-          "label": "Team",
-          "link": "/team",
-          "children": 0
-        },
-        {
-          "label": "Über uns",
-          "link": "/about",
-          "children": 0
-        },
-        {
           "label": "News",
           "link": "/blog",
           "children": 0
         },
         {
-          "label": "Contact",
+          "label": "Kontakt",
           "link": "/contact",
           "children": 0
         }

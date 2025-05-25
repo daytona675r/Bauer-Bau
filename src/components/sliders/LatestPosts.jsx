@@ -8,9 +8,9 @@ const LatestPostsSlider = ( { posts } ) => {
     return (
         <section className="gap blog-style-two">
             <div className="heading">
-                <figure>
+                {/* <figure>
                     <img src="/img/heading-icon.png" alt="heading-icon" />
-                </figure>
+                </figure> */}
                 <span>{Data.subtitle}</span>
                 <h2>{Data.title}</h2>
             </div>
